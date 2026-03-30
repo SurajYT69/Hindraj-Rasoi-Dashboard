@@ -1,5 +1,6 @@
-let sales = 12500;
-let orders = 48;
-
-document.getElementById("sales").innerText = "₹" + sales;
-document.getElementById("orders").innerText = orders;
+canvas {
+  background: #1a1a1a;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 10px;
+}
